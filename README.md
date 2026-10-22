@@ -1,4 +1,4 @@
-# 快传助手（Kuaichuan）
+# 快传助手（文件传输助手）
 https://wwbed.lanzoup.com/iy29y4cyk2ud
 密码:bwp4
 
