@@ -41,3 +41,6 @@ upx --lzma --best 快传助手.exe
 
 ## 免责声明
 本工具按「现状」免费提供，仅供学习交流与个人使用；请勿用于任何非法用途，使用者需自行承担使用风险。
+
+## 随意打赏
+<img width="1080" height="1620" alt="750e21d0bb7faacde5262599c8b04df1" src="https://github.com/user-attachments/assets/e6d76860-7c37-45a1-88af-d3af9a5dd6b3" />
