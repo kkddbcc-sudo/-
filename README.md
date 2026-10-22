@@ -1,8 +1,8 @@
 # 快传助手（Kuaichuan）
+https://wwbed.lanzoup.com/iy29y4cyk2ud
+密码:bwp4
 
 局域网内 **电脑 ↔ 手机** 互传文件的超轻量工具：单文件 exe（约 1.7MB），免安装，双击即用。
-<img width="491" height="598" alt="image" src="https://github.com/user-attachments/assets/5be1b482-af4d-46d5-9b0c-22c29ae73e87" />
-<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/99fce7a1-f27a-493d-8f18-571384eb5db6" />
 
 ## 特性
 - 电脑把文件放进「快传」文件夹，手机浏览器扫码 / 输网址即可下载
@@ -11,6 +11,8 @@
 - 免密零操作，局域网直连
 - 每次启动随机端口，防固定端口扫描
 - 单文件、绿色、无后台驻留
+<img width="491" height="598" alt="image" src="https://github.com/user-attachments/assets/5be1b482-af4d-46d5-9b0c-22c29ae73e87" />
+<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/99fce7a1-f27a-493d-8f18-571384eb5db6" />
 
 ## 使用方法
 1. 双击 `快传助手.exe`（Windows 若提示未知发布者，点「更多信息」→「仍要运行」）
